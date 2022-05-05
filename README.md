@@ -18,6 +18,8 @@ pronouns: 'he' | 'him',
    '''
    You can find me:
    . Linkedin: https://www.linkedin.com/in/diegoalbertocort/
+   
+   [![Cortese-code's github stats](https://github-readme-stats.vercel.app/api?username=Cortese-code)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Cortese-code/Cortese-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
