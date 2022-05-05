@@ -1,5 +1,5 @@
 ### Hi I'm Diego 👋🤗✔
-'''JS
+```JS
 const corteseCode = {
 pronouns: 'he' | 'him',
    code: [Javascript, Typescript, HTML, CSS ],
@@ -15,7 +15,7 @@ pronouns: 'he' | 'him',
    },
    currentOccupation: ["open for job opportunities"]
    }
-   '''
+   ```
    You can find me:
    . Linkedin: https://www.linkedin.com/in/diegoalbertocort/
    
