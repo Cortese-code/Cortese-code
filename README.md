@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi I'm Diego 👋🤗✔
+'''JS
+const corteseCode = {
+pronouns: 'he' | 'him',
+   code: [Javascript, Typescript, HTML, CSS ],
+   technologies: {
+      frontEnd: {
+         js: ["Reactjs", "Redux"],
+         css: [ "Bootstrap" , "Tailwind" ]
+      },
+      backEnd: {
+         js: ["Nodejs", "Expressjs", "Sequelize" ],
+      },
+      databases: ["PostgreSQL", "SQL"],
+   },
+   currentOccupation: ["open for job opportunities"]
+   }
+   '''
+   You can find me:
+   . Linkedin: https://www.linkedin.com/in/diegoalbertocort/
 
 <!--
 **Cortese-code/Cortese-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
